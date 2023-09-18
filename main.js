@@ -20,7 +20,7 @@
     }, 4000)
 
     sr.reveal('#chat1', {
-        delay: 4000,
+        delay: 1500,
     }, 4000)
 
 
