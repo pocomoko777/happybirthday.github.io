@@ -254,3 +254,7 @@ footer{
 footer h3 {
     text-align: center;
 }
+
+audio {
+    display: none;
+}
